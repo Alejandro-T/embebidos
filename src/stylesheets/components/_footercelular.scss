@@ -1,0 +1,123 @@
+.footermovil{
+    width: 100vw;
+    height: 15vh;
+    background-color: blue;
+    overflow: hidden;
+    position: absolute;
+    bottom: 0;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    &__list{
+        display: flex;
+        justify-content:space-around;
+        align-items: center;
+        width: 100%;
+        height: 100%;
+    }
+    &__item{
+       width: 100%;
+       height: 100%;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+    }
+    &__img{
+        width: 2em;
+        height: 3em;
+    }
+
+}   
+
+.date{
+    width: 100vw;
+    height: 15vh;
+    overflow: hidden;
+    display: flex;
+    &__left{
+        width: 50vw;
+    }
+    &__rigth{
+        position: relative;
+        display: flex;
+        justify-content: flex-end;
+        width: 50vw;
+        height: 100%;
+       
+    }
+    &__text{    
+        margin-left: 5px;
+        font-size: 1em;
+        overflow: hidden;
+        color: burlywood;
+    }
+    &__img{
+        width: 30%;
+        height: 100%;
+    }
+}
+
+
+
+
+.creador{
+    background-color: rgba(88, 88, 204, 0.842);
+    overflow: hidden;
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    &__contain{
+        position: relative;
+        width: 85%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    &__header{
+        width: 100%;
+        height: 100%;
+        text-align: center;
+    }
+    &__title{font-size: 1em;}
+    &__middle{
+        text-align: center;
+        width: 100%;
+        height: 100%;
+    }
+    &__footer{
+        text-align: center;
+        width: 100%;
+        height: 100%;
+    }
+    &__desc{
+        margin: 0;
+        font-size: 0.5em;
+    }
+    &__name{
+        padding: 0;
+        margin: 0;
+        font-size: 1em;
+    }
+    &__img{
+        border-radius: 50%;
+        width: 4em;
+        height: 4em;
+    }
+    &__contw{
+        position: relative;
+        width: 100vw;
+        height: 100px;
+    }
+    &__swim{
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        bottom: 0;
+        left: 0;
+    }
+}
+
