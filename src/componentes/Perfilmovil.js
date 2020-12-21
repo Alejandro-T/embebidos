@@ -11,11 +11,9 @@ const perfilmov = (props) =>{
                     <h1 className="creador__title">Diseñado Por:</h1>
                     <img src={Images.yo} className="creador__img"></img>
                 </div>
-
                 <div className="creador__middle">
                     <h2 className="creador__name">Alejandro Torres</h2>
                 </div>
-                    
                 <div className="creador__footer">
                 <p className="creador__desc">"Soy estudiante de la carrera de ingenieria en sistemas"</p>
                 <p className="creador__desc">Actualmente estoy en 7mo semestre"</p>

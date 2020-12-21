@@ -464,17 +464,14 @@ body {
   background-color: rgba(88, 88, 204, 0.842);
   overflow: hidden;
   width: 100vw;
-  height: 50vh;
+  height: 40vh;
   display: flex;
-  justify-content: center;
 }
 .creador__contain {
   position: relative;
-  width: 85%;
+  width: 100%;
   height: 100%;
   display: flex;
-  justify-content: center;
-  align-items: center;
   flex-direction: column;
 }
 .creador__header {
@@ -488,16 +485,18 @@ body {
 .creador__middle {
   text-align: center;
   width: 100%;
-  height: 100%;
+  height: auto;
 }
 .creador__footer {
+  margin: 0;
+  padding: 0;
   text-align: center;
   width: 100%;
   height: 100%;
 }
 .creador__desc {
   margin: 0;
-  font-size: 0.5em;
+  font-size: 0.7em;
 }
 .creador__name {
   padding: 0;
