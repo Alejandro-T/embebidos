@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/embebidos/static/css/main.8e78b498.chunk.css",
-    "main.js": "/embebidos/static/js/main.b48dc6ae.chunk.js",
-    "main.js.map": "/embebidos/static/js/main.b48dc6ae.chunk.js.map",
-    "runtime-main.js": "/embebidos/static/js/runtime-main.9689b39e.js",
-    "runtime-main.js.map": "/embebidos/static/js/runtime-main.9689b39e.js.map",
-    "static/js/2.c7bed426.chunk.js": "/embebidos/static/js/2.c7bed426.chunk.js",
-    "static/js/2.c7bed426.chunk.js.map": "/embebidos/static/js/2.c7bed426.chunk.js.map",
-    "static/js/3.88cabc30.chunk.js": "/embebidos/static/js/3.88cabc30.chunk.js",
-    "static/js/3.88cabc30.chunk.js.map": "/embebidos/static/js/3.88cabc30.chunk.js.map",
+    "main.css": "/embebidos/static/css/main.2bf9f481.chunk.css",
+    "main.js": "/embebidos/static/js/main.4f1343cc.chunk.js",
+    "main.js.map": "/embebidos/static/js/main.4f1343cc.chunk.js.map",
+    "runtime-main.js": "/embebidos/static/js/runtime-main.9a97aae9.js",
+    "runtime-main.js.map": "/embebidos/static/js/runtime-main.9a97aae9.js.map",
+    "static/js/2.23ac588c.chunk.js": "/embebidos/static/js/2.23ac588c.chunk.js",
+    "static/js/2.23ac588c.chunk.js.map": "/embebidos/static/js/2.23ac588c.chunk.js.map",
+    "static/js/3.f0fc2c40.chunk.js": "/embebidos/static/js/3.f0fc2c40.chunk.js",
+    "static/js/3.f0fc2c40.chunk.js.map": "/embebidos/static/js/3.f0fc2c40.chunk.js.map",
     "index.html": "/embebidos/index.html",
-    "static/css/main.8e78b498.chunk.css.map": "/embebidos/static/css/main.8e78b498.chunk.css.map",
-    "static/js/2.c7bed426.chunk.js.LICENSE.txt": "/embebidos/static/js/2.c7bed426.chunk.js.LICENSE.txt",
+    "static/css/main.2bf9f481.chunk.css.map": "/embebidos/static/css/main.2bf9f481.chunk.css.map",
+    "static/js/2.23ac588c.chunk.js.LICENSE.txt": "/embebidos/static/js/2.23ac588c.chunk.js.LICENSE.txt",
     "static/media/contrasena.cd9b03f2.svg": "/embebidos/static/media/contrasena.cd9b03f2.svg",
     "static/media/hector.71ee6d31.jpeg": "/embebidos/static/media/hector.71ee6d31.jpeg",
     "static/media/hogar.ab5cbf84.svg": "/embebidos/static/media/hogar.ab5cbf84.svg",
@@ -25,9 +25,9 @@
     "static/media/yo.4d1483a8.jpeg": "/embebidos/static/media/yo.4d1483a8.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9689b39e.js",
-    "static/js/2.c7bed426.chunk.js",
-    "static/css/main.8e78b498.chunk.css",
-    "static/js/main.b48dc6ae.chunk.js"
+    "static/js/runtime-main.9a97aae9.js",
+    "static/js/2.23ac588c.chunk.js",
+    "static/css/main.2bf9f481.chunk.css",
+    "static/js/main.4f1343cc.chunk.js"
   ]
 }
