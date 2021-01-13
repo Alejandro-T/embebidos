@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/embebidos/static/css/main.e1d1334c.chunk.css",
+    "main.css": "/embebidos/static/css/main.42248133.chunk.css",
     "main.js": "/embebidos/static/js/main.48729d8b.chunk.js",
     "main.js.map": "/embebidos/static/js/main.48729d8b.chunk.js.map",
     "runtime-main.js": "/embebidos/static/js/runtime-main.9a97aae9.js",
@@ -10,7 +10,7 @@
     "static/js/3.f0fc2c40.chunk.js": "/embebidos/static/js/3.f0fc2c40.chunk.js",
     "static/js/3.f0fc2c40.chunk.js.map": "/embebidos/static/js/3.f0fc2c40.chunk.js.map",
     "index.html": "/embebidos/index.html",
-    "static/css/main.e1d1334c.chunk.css.map": "/embebidos/static/css/main.e1d1334c.chunk.css.map",
+    "static/css/main.42248133.chunk.css.map": "/embebidos/static/css/main.42248133.chunk.css.map",
     "static/js/2.23ac588c.chunk.js.LICENSE.txt": "/embebidos/static/js/2.23ac588c.chunk.js.LICENSE.txt",
     "static/media/contrasena.cd9b03f2.svg": "/embebidos/static/media/contrasena.cd9b03f2.svg",
     "static/media/hector.71ee6d31.jpeg": "/embebidos/static/media/hector.71ee6d31.jpeg",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.9a97aae9.js",
     "static/js/2.23ac588c.chunk.js",
-    "static/css/main.e1d1334c.chunk.css",
+    "static/css/main.42248133.chunk.css",
     "static/js/main.48729d8b.chunk.js"
   ]
 }
